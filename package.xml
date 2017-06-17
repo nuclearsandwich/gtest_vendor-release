@@ -6,11 +6,9 @@
   <description>The package provides GoogleTest.</description>
   <maintainer email="dthomas@osrfoundation.org">Dirk Thomas</maintainer>
   <license>BSD</license>
-  
+
   <build_depend>cmake</build_depend>
-  
-  <build_export_depend>cmake</build_export_depend>
-  
+
   <export>
     <build_type>cmake</build_type>
   </export>
